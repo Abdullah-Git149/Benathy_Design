@@ -3,11 +3,11 @@ import { FaFacebookF, FaInstagram, FaLinkedin, FaTwitch, FaTwitter } from 'react
 
 const Team = () => {
     return (
-        <div className="team">
+        <div className="team" id="teamm">
             <div className="container">
                 <div className="team__row">
                     <div className="team__width30">
-                        <div className="team__left">
+                        <div className="team__left" data-aos="fade-right">
                             <h2>TEAM</h2>
                             <div className="team__line"></div>
                             <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem.</p>
@@ -16,7 +16,7 @@ const Team = () => {
 
                     <div className="team__width70">
                         <div className="team__box__flex">
-                            <div className="team__box">
+                            <div className="team__box" data-aos="zoom-in">
                                 <div className="team__img">
                                     <img src="https://bootstrapmade.com/demo/templates/Bethany/assets/img/team/team-1.jpg" alt="" />
                                 </div>
@@ -32,7 +32,7 @@ const Team = () => {
                                 </ul>
                             </div>
 
-                            <div className="team__box">
+                            <div className="team__box" data-aos="zoom-in">
                                 <div className="team__img">
                                     <img src="https://bootstrapmade.com/demo/templates/Bethany/assets/img/team/team-4.jpg" alt="" />
                                 </div>
@@ -48,7 +48,7 @@ const Team = () => {
                                 </ul>
                             </div>
 
-                            <div className="team__box">
+                            <div className="team__box" data-aos="zoom-in">
                                 <div className="team__img">
                                     <img src="https://bootstrapmade.com/demo/templates/Bethany/assets/img/team/team-2.jpg" alt="" />
                                 </div>
@@ -64,7 +64,7 @@ const Team = () => {
                                 </ul>
                             </div>
 
-                            <div className="team__box">
+                            <div className="team__box" data-aos="zoom-in">
                                 <div className="team__img">
                                     <img src="https://bootstrapmade.com/demo/templates/Bethany/assets/img/team/team-3.jpg" alt="" />
                                 </div>

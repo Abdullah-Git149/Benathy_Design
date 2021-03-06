@@ -1,10 +1,12 @@
 *{
   margin: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 body{
   font-family: "Open Sans", sans-serif;
   color: #444444;
+
 
 }
 .header{
@@ -51,6 +53,7 @@ justify-content: center;
   width: 70%;
   display: flex;
   align-items: center;
+  justify-content: space-around;
 }
 .navbar__right ul{
   display: flex;
@@ -79,12 +82,7 @@ justify-content: center;
 .navbar__right ul li:first-child{
   color: #198754 !important;
 }
-.navbar__btn{
 
-  margin-left: 40px;
-
-
-}
 .navbar__btn__text{
   background: #009970;
   padding: 10px 25px;
@@ -309,7 +307,7 @@ justify-content: center;
   text-align: center;
   box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
   margin: 15px 0;
-  transition: 0.3s; 
+  transition: 0.5s !important; 
 
   animation-duration: 2s;
 }
@@ -443,7 +441,7 @@ justify-content: center;
   background-color: white;
   margin: 10px;
   height: 30vh;
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.5s !important;
 }
 .service__box:hover{
  

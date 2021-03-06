@@ -2,17 +2,17 @@ import React from 'react';
 import { FaAngleRight } from "react-icons/fa"
 const About = () => {
     return (
-        <div className="about">
+        <div className="about" id="about">
             <div className="container">
                 <div className="row">
                     <div className="col-6">
-                        <div className="about__left">
-                            <h2 className="animate__animated  animate__bounceInDown">EUM IPSAM LABORUM DELENITI VELITENA</h2>
+                        <div className="about__left" data-aos="fade-right" >
+                            <h2 >EUM IPSAM LABORUM DELENITI VELITENA</h2>
                             <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assum perenda sruen jonee trave</h3>
                         </div>
                     </div>
                     <div className="col-6">
-                        <div className="about__right">
+                        <div className="about__right" data-aos="fade-left" >
                             <p>Ullamco laboris nisi ut aliquip ex ea
                             commodo consequat. Duis aute irure dolor
                             in reprehenderit in voluptate velit esse cillum

@@ -11,11 +11,10 @@ const Navbar = () => {
                     <div className="navbar__right">
                         <ul>
                             <li><a className="firstchild" href="">Home</a></li>
-                            <li><a href="">About</a></li>
-                            <li><a href="">Service</a></li>
-                            <li><a href="">Portfolio</a></li>
-                            <li><a href="">Team</a></li>
-                            <li><a href="">Contact</a></li>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#services">Service</a></li>
+                            <li><a href="#teamm">Team</a></li>
+                            <li><a href="#con">Contact</a></li>
 
                         </ul>
                         <div className="navbar__btn">
