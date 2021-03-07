@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Benathy_Design/static/css/main.9dd9cf2a.chunk.css",
-    "main.js": "/Benathy_Design/static/js/main.1be14588.chunk.js",
-    "main.js.map": "/Benathy_Design/static/js/main.1be14588.chunk.js.map",
+    "main.js": "/Benathy_Design/static/js/main.4437a237.chunk.js",
+    "main.js.map": "/Benathy_Design/static/js/main.4437a237.chunk.js.map",
     "runtime-main.js": "/Benathy_Design/static/js/runtime-main.924d4550.js",
     "runtime-main.js.map": "/Benathy_Design/static/js/runtime-main.924d4550.js.map",
     "static/js/2.6f27d727.chunk.js": "/Benathy_Design/static/js/2.6f27d727.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.924d4550.js",
     "static/js/2.6f27d727.chunk.js",
     "static/css/main.9dd9cf2a.chunk.css",
-    "static/js/main.1be14588.chunk.js"
+    "static/js/main.4437a237.chunk.js"
   ]
 }
